@@ -8,7 +8,7 @@
 
 const myObject = {                  // declared object
     sayHello(name){
-        if (name === "tums"|| name === "pickle" || name === "interesting"){  // if statement, name ===   || means or
+        if (name === "tums"|| name === "pickle" || name === "interesting" || name === "@diply"){  // if statement, name ===   || means or
             console.log("Fuck you, " + name);  // log
         }
         else {      // else
